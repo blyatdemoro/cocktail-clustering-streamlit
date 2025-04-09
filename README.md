@@ -51,11 +51,6 @@ streamlit run app/app.py
 - La app permite construir combinaciones progresivas de ingredientes y ver los cócteles compatibles.
 - Se incluyen imágenes e instrucciones detalladas por cóctel.
 
-## 🖼️ Vista previa de la app
-
-![Seleccionar ingredientes](outputs/demo_app.png)
-![Resultado recomendado](outputs/recommendation_result.png)
-
 ## 📚 Dataset
 
 Los datos provienen del dataset **Cocktails and Ingredients** publicado en Kaggle por [the_hedgehog](https://www.kaggle.com/datasets/thehedgehog/cocktails-hotal).  
