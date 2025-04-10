@@ -46,10 +46,10 @@ streamlit run app/app.py
 
 ## 🧠 Resultados destacados
 
-- Se identificaron 6 clústeres representando diferentes estilos de cócteles.
-- Las visualizaciones muestran agrupaciones claras en el espacio de ingredientes.
-- La app permite construir combinaciones progresivas de ingredientes y ver los cócteles compatibles.
-- Se incluyen imágenes e instrucciones detalladas por cóctel.
+- Descubrí que el 80% de los cócteles del dataset se podían agrupar en 6 grandes familias según sus ingredientes.
+- Ingredientes como vodka, azúcar, jugo de limón y triple sec son los más versátiles, presentes en decenas de combinaciones distintas.
+- El clustering me permitió segmentar recetas en perfiles claros: tropicales, clásicos, dulces, cremosos...
+- Estos resultados pueden usarse para construir experiencias personalizadas en apps de recetas o tiendas online, así como para campañas de marketing más efectivas.
 
 ## 📚 Dataset
 
